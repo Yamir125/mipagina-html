@@ -1,0 +1,7 @@
+/* fonts.css */
+@font-face {
+  font-family: 'Typold';
+  src: url('') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
